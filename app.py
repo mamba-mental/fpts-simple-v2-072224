@@ -2,6 +2,8 @@ from flask import Flask, request, jsonify
 import PyPDF2
 import docx
 import os
+from jinja2 import Template
+from bs4 import BeautifulSoup
 from datetime import datetime
 
 app = Flask(__name__)
@@ -45,7 +47,6 @@ def extract_text_from_file(file_path):
         return "Unsupported file format."
 
 def extract_client_data(text):
-    # Placeholder example for extracting client data from text
     client_profile = {
         "company_name": "Example Company",
         "credit_utilization": 12,
@@ -169,4 +170,5 @@ def render_report(client_profile, gap_analysis, recommendations):
     return rendered_html
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
