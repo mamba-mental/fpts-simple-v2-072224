@@ -1,0 +1,3512 @@
+[
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 2,
+        "Investment": "$400.00",
+        "SKU#": "AME2023102",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$18,600",
+        "Statement_Date": 3,
+        "Investment": "$722.70",
+        "SKU#": "CHA2016193",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$13,000",
+        "Statement_Date": 3,
+        "Investment": "$475.74",
+        "SKU#": "CIT2020133",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 4,
+        "Investment": "$820.62",
+        "SKU#": "CIT2008104",
+        "Account_Age": 16
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$2,400",
+        "Statement_Date": 5,
+        "Investment": "$400.00",
+        "SKU#": "CIT201825",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$14,000",
+        "Statement_Date": 5,
+        "Investment": "$428.26",
+        "SKU#": "CHA2022145",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$6,800",
+        "Statement_Date": 6,
+        "Investment": "$400.00",
+        "SKU#": "AME202376",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$2,000",
+        "Statement_Date": 6,
+        "Investment": "$400.00",
+        "SKU#": "AME202326",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,200",
+        "Statement_Date": 6,
+        "Investment": "$487.22",
+        "SKU#": "WEL2018106",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$4,800",
+        "Statement_Date": 6,
+        "Investment": "$412.96",
+        "SKU#": "WEL201756",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 15,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$18,000",
+        "Statement_Date": 6,
+        "Investment": "$542.00",
+        "SKU#": "WEL2021186",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 7,
+        "Investment": "$400.00",
+        "SKU#": "BAR202397",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,200",
+        "Statement_Date": 7,
+        "Investment": "$400.00",
+        "SKU#": "CIT201947",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$6,000",
+        "Statement_Date": 7,
+        "Investment": "$400.00",
+        "SKU#": "TD202167",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 7,
+        "Investment": "$400.00",
+        "SKU#": "WEL2022107",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$24,000",
+        "Statement_Date": 7,
+        "Investment": "$594.52",
+        "SKU#": "AME2023247",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$1,000",
+        "Statement_Date": 7,
+        "Investment": "$400.00",
+        "SKU#": "CHA202217",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 7,
+        "Investment": "$416.96",
+        "SKU#": "WEL201757",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 7,
+        "Investment": "$753.14",
+        "SKU#": "CIT2010107",
+        "Account_Age": 14
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 7,
+        "Investment": "$514.52",
+        "SKU#": "AME2023207",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 7,
+        "Investment": "$548.26",
+        "SKU#": "WEL2022207",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$21,000",
+        "Statement_Date": 7,
+        "Investment": "$568.26",
+        "SKU#": "CHA2022217",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$2,500",
+        "Statement_Date": 7,
+        "Investment": "$400.00",
+        "SKU#": "CIT202137",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$11,500",
+        "Statement_Date": 8,
+        "Investment": "$681.92",
+        "SKU#": "CHA2013128",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$7,100",
+        "Statement_Date": 8,
+        "Investment": "$661.40",
+        "SKU#": "CIT201178",
+        "Account_Age": 13
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$12,600",
+        "Statement_Date": 8,
+        "Investment": "$771.40",
+        "SKU#": "CIT2011138",
+        "Account_Age": 13
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$18,600",
+        "Statement_Date": 8,
+        "Investment": "$823.92",
+        "SKU#": "CHA2013198",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$2,200",
+        "Statement_Date": 9,
+        "Investment": "$428.44",
+        "SKU#": "CIT201529",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$21,000",
+        "Statement_Date": 9,
+        "Investment": "$770.70",
+        "SKU#": "CIT2016219",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$7,900",
+        "Statement_Date": 9,
+        "Investment": "$400.00",
+        "SKU#": "WEL202089",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$16,000",
+        "Statement_Date": 10,
+        "Investment": "$434.52",
+        "SKU#": "WEL2023161",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "DISCOVER",
+        "Subcategory": "",
+        "Face_Value": "$14,600",
+        "Statement_Date": 10,
+        "Investment": "$541.48",
+        "SKU#": "DIS2019151",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$6,200",
+        "Statement_Date": 10,
+        "Investment": "$400.00",
+        "SKU#": "CIT202161",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 10,
+        "Investment": "$618.18",
+        "SKU#": "CIT2014101",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$6,900",
+        "Statement_Date": 12,
+        "Investment": "$488.70",
+        "SKU#": "WEL201671",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 12,
+        "Investment": "$551.92",
+        "SKU#": "CIT201351",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 12,
+        "Investment": "$450.70",
+        "SKU#": "CIT201651",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 12,
+        "Investment": "$616.96",
+        "SKU#": "WEL2017151",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$23,700",
+        "Statement_Date": 12,
+        "Investment": "$757.22",
+        "SKU#": "CHA2018241",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "PNC",
+        "Subcategory": "",
+        "Face_Value": "$19,000",
+        "Statement_Date": 12,
+        "Investment": "$494.52",
+        "SKU#": "PNC2023191",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "WELLS FARGO $300",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 12,
+        "Investment": "$400.00",
+        "SKU#": "WEL201501",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 12,
+        "Investment": "$415.74",
+        "SKU#": "CIT2020101",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,500",
+        "Statement_Date": 13,
+        "Investment": "$661.92",
+        "SKU#": "WEL2013111",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$2,100",
+        "Statement_Date": 13,
+        "Investment": "$493.92",
+        "SKU#": "WEL201321",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$3,000",
+        "Statement_Date": 13,
+        "Investment": "$400.00",
+        "SKU#": "CAP201831",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$3,000",
+        "Statement_Date": 13,
+        "Investment": "$400.00",
+        "SKU#": "AME202331",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 13,
+        "Investment": "$1121.84",
+        "SKU#": "CIT2005201",
+        "Account_Age": 19
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$5,600",
+        "Statement_Date": 13,
+        "Investment": "$428.96",
+        "SKU#": "CHA201761",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,500",
+        "Statement_Date": 13,
+        "Investment": "$695.66",
+        "SKU#": "WEL2012111",
+        "Account_Age": 12
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$14,000",
+        "Statement_Date": 13,
+        "Investment": "$462.00",
+        "SKU#": "CIT2021141",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 13,
+        "Investment": "$429.48",
+        "SKU#": "CHA201991",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "ALLIANT CU",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 13,
+        "Investment": "$549.48",
+        "SKU#": "ALL2019151",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$3,700",
+        "Statement_Date": 13,
+        "Investment": "$525.92",
+        "SKU#": "WEL201341",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$2,200",
+        "Statement_Date": 14,
+        "Investment": "$664.62",
+        "SKU#": "WEL200821",
+        "Account_Age": 16
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$1,000",
+        "Statement_Date": 14,
+        "Investment": "$400.00",
+        "SKU#": "AME202311",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 14,
+        "Investment": "$400.00",
+        "SKU#": "CAP2021101",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$9,900",
+        "Statement_Date": 14,
+        "Investment": "$582.44",
+        "SKU#": "CIT2015101",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$6,800",
+        "Statement_Date": 14,
+        "Investment": "$400.00",
+        "SKU#": "TD202271",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$6,700",
+        "Statement_Date": 14,
+        "Investment": "$400.00",
+        "SKU#": "CIT202171",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$22,400",
+        "Statement_Date": 14,
+        "Investment": "$562.52",
+        "SKU#": "CHA2023221",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$8,600",
+        "Statement_Date": 14,
+        "Investment": "$400.00",
+        "SKU#": "TD202291",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "AME2023101",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$35,000",
+        "Statement_Date": 15,
+        "Investment": "$814.52",
+        "SKU#": "AME2023351",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$3,300",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "CAP202231",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$12,800",
+        "Statement_Date": 15,
+        "Investment": "$471.74",
+        "SKU#": "BAR2020131",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$15,300",
+        "Statement_Date": 15,
+        "Investment": "$892.88",
+        "SKU#": "CIT2009151",
+        "Account_Age": 15
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$2,000",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "BAR202321",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$12,300",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "CIT2022121",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$3,000",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "AME202331",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$22,000",
+        "Statement_Date": 15,
+        "Investment": "$756.96",
+        "SKU#": "CHA2017221",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 12,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$8,400",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "WEL202381",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,400",
+        "Statement_Date": 15,
+        "Investment": "$417.48",
+        "SKU#": "CIT201981",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$3,500",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "CIT202041",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$2,500",
+        "Statement_Date": 15,
+        "Investment": "$400.00",
+        "SKU#": "CIT202131",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "DISCOVER",
+        "Subcategory": "",
+        "Face_Value": "$11,000",
+        "Statement_Date": 15,
+        "Investment": "$638.18",
+        "SKU#": "DIS2014111",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$7,000",
+        "Statement_Date": 15,
+        "Investment": "$524.44",
+        "SKU#": "WEL201571",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 15,
+        "Investment": "$716.96",
+        "SKU#": "CIT2017201",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$3,500",
+        "Statement_Date": 16,
+        "Investment": "$420.70",
+        "SKU#": "CAP201641",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,500",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "CIT202291",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "WEL202251",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$25,000",
+        "Statement_Date": 16,
+        "Investment": "$715.74",
+        "SKU#": "CAP2020251",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 16,
+        "Investment": "$415.74",
+        "SKU#": "CAP2020101",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$75,000",
+        "Statement_Date": 16,
+        "Investment": "$1614.52",
+        "SKU#": "AME2023751",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY ",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$11,900",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "AME2023121",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$1,400",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "CIT202011",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$2,900",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "CIT201731",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,600",
+        "Statement_Date": 16,
+        "Investment": "$461.48",
+        "SKU#": "CIT2019111",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "CIT202351",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 16,
+        "Investment": "$683.22",
+        "SKU#": "CIT2018201",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 16,
+        "Investment": "$516.96",
+        "SKU#": "CHA2017101",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$7,500",
+        "Statement_Date": 16,
+        "Investment": "$601.92",
+        "SKU#": "WEL201381",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$12,000",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "BAR2022121",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,600",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "CIT201951",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "CIT202181",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$4,000",
+        "Statement_Date": 16,
+        "Investment": "$464.44",
+        "SKU#": "CHA201541",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI $560",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 16,
+        "Investment": "$400.00",
+        "SKU#": "CIT201901",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 17,
+        "Investment": "$548.26",
+        "SKU#": "WEL2022201",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$13,500",
+        "Statement_Date": 17,
+        "Investment": "$519.48",
+        "SKU#": "CIT2019141",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$13,000",
+        "Statement_Date": 17,
+        "Investment": "$543.22",
+        "SKU#": "CIT2018131",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 17,
+        "Investment": "$443.22",
+        "SKU#": "CIT201881",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$14,000",
+        "Statement_Date": 17,
+        "Investment": "$428.26",
+        "SKU#": "CHA2022141",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI $500",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 17,
+        "Investment": "$400.00",
+        "SKU#": "CIT201901",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,000",
+        "Statement_Date": 17,
+        "Investment": "$400.00",
+        "SKU#": "CIT202241",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "PENFED",
+        "Subcategory": "",
+        "Face_Value": "$12,500",
+        "Statement_Date": 17,
+        "Investment": "$400.00",
+        "SKU#": "PEN2023131",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$28,500",
+        "Statement_Date": 17,
+        "Investment": "$819.48",
+        "SKU#": "CIT2019291",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$7,500",
+        "Statement_Date": 17,
+        "Investment": "$400.00",
+        "SKU#": "AME202381",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$25,000",
+        "Statement_Date": 17,
+        "Investment": "$951.92",
+        "SKU#": "BAR2013251",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CAPITAL ONE $850",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 17,
+        "Investment": "$400.00",
+        "SKU#": "CAP201601",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 18,
+        "Investment": "$400.00",
+        "SKU#": "CIT201951",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 18,
+        "Investment": "$400.00",
+        "SKU#": "CAP2022101",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "PENFED",
+        "Subcategory": "",
+        "Face_Value": "$12,500",
+        "Statement_Date": 18,
+        "Investment": "$400.00",
+        "SKU#": "PEN2022131",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "PENFED",
+        "Subcategory": "",
+        "Face_Value": "$25,000",
+        "Statement_Date": 18,
+        "Investment": "$682.00",
+        "SKU#": "PEN2021251",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "FNBO",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 18,
+        "Investment": "$476.96",
+        "SKU#": "FNB201781",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "PENFED",
+        "Subcategory": "",
+        "Face_Value": "$23,000",
+        "Statement_Date": 18,
+        "Investment": "$574.52",
+        "SKU#": "PEN2023231",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$7,200",
+        "Statement_Date": 18,
+        "Investment": "$460.96",
+        "SKU#": "CHA201771",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,600",
+        "Statement_Date": 19,
+        "Investment": "$442.70",
+        "SKU#": "CIT201651",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": "MANY ",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$18,000",
+        "Statement_Date": 19,
+        "Investment": "$474.52",
+        "SKU#": "AME2023181",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$19,600",
+        "Statement_Date": 19,
+        "Investment": "$540.26",
+        "SKU#": "CHA2022201",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,500",
+        "Statement_Date": 19,
+        "Investment": "$508.18",
+        "SKU#": "CIT201451",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$3,100",
+        "Statement_Date": 19,
+        "Investment": "$480.18",
+        "SKU#": "WEL201431",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$6,000",
+        "Statement_Date": 19,
+        "Investment": "$400.00",
+        "SKU#": "CIT202061",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 19,
+        "Investment": "$583.22",
+        "SKU#": "CIT2018151",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$5,500",
+        "Statement_Date": 19,
+        "Investment": "$528.18",
+        "SKU#": "WEL201461",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$16,700",
+        "Statement_Date": 19,
+        "Investment": "$549.74",
+        "SKU#": "CHA2020171",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$36,000",
+        "Statement_Date": 20,
+        "Investment": "$1441.84",
+        "SKU#": "CIT2005362",
+        "Account_Age": 19
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "DISCOVER",
+        "Subcategory": "",
+        "Face_Value": "$3,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "DIS202332",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$1,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "AME202312",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$14,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "BAR2023142",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$22,000",
+        "Statement_Date": 20,
+        "Investment": "$588.26",
+        "SKU#": "TD2022222",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$33,000",
+        "Statement_Date": 20,
+        "Investment": "$774.52",
+        "SKU#": "AME2023332",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$1,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "TD201612",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,800",
+        "Statement_Date": 20,
+        "Investment": "$432.96",
+        "SKU#": "CIT201762",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$22,000",
+        "Statement_Date": 20,
+        "Investment": "$554.52",
+        "SKU#": "TD2023222",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$17,100",
+        "Statement_Date": 20,
+        "Investment": "$760.18",
+        "SKU#": "WEL2014172",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "AME202382",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$16,500",
+        "Statement_Date": 20,
+        "Investment": "$613.22",
+        "SKU#": "CIT2018172",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "PENFED",
+        "Subcategory": "",
+        "Face_Value": "$11,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "PEN2022112",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$16,000",
+        "Statement_Date": 20,
+        "Investment": "$636.96",
+        "SKU#": "CIT2017162",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$75,000",
+        "Statement_Date": 20,
+        "Investment": "$1614.52",
+        "SKU#": "AME2023752",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$16,400",
+        "Statement_Date": 20,
+        "Investment": "$644.96",
+        "SKU#": "CIT2017162",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "(6 months+) FNBO",
+        "Subcategory": "",
+        "Face_Value": "$15,100",
+        "Statement_Date": 20,
+        "Investment": "$416.52",
+        "SKU#": "(6 2023152",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI $400",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "CIT201702",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$19,500",
+        "Statement_Date": 20,
+        "Investment": "$639.48",
+        "SKU#": "CIT2019202",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": "MANY ",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$2,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "AME202322",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 20,
+        "Investment": "$400.00",
+        "SKU#": "CHA202292",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 21,
+        "Investment": "$615.74",
+        "SKU#": "CHA2020202",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$11,000",
+        "Statement_Date": 21,
+        "Investment": "$469.48",
+        "SKU#": "WEL2019112",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 21,
+        "Investment": "$400.00",
+        "SKU#": "CIT201852",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$29,000",
+        "Statement_Date": 21,
+        "Investment": "$896.96",
+        "SKU#": "CHA2017292",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "NFCU",
+        "Subcategory": "",
+        "Face_Value": "$23,000",
+        "Statement_Date": 21,
+        "Investment": "$574.52",
+        "SKU#": "NFC2023232",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$12,500",
+        "Statement_Date": 21,
+        "Investment": "$499.48",
+        "SKU#": "WEL2019132",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 21,
+        "Investment": "$409.48",
+        "SKU#": "CIT201982",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$6,400",
+        "Statement_Date": 21,
+        "Investment": "$400.00",
+        "SKU#": "CIT202162",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "DISCOVER",
+        "Subcategory": "",
+        "Face_Value": "$3,800",
+        "Statement_Date": 21,
+        "Investment": "$400.00",
+        "SKU#": "DIS201842",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$6,300",
+        "Statement_Date": 21,
+        "Investment": "$476.70",
+        "SKU#": "WEL201662",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$1,900",
+        "Statement_Date": 21,
+        "Investment": "$400.00",
+        "SKU#": "CHA202222",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$1,900",
+        "Statement_Date": 22,
+        "Investment": "$456.18",
+        "SKU#": "TD201422",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$14,900",
+        "Statement_Date": 22,
+        "Investment": "$412.52",
+        "SKU#": "AME2023152",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "3/22 WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$30,000",
+        "Statement_Date": 22,
+        "Investment": "$400.00",
+        "SKU#": "3/22023302",
+        "Account_Age": -178
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 22,
+        "Investment": "$400.00",
+        "SKU#": "AME2023102",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$15,600",
+        "Statement_Date": 22,
+        "Investment": "$494.00",
+        "SKU#": "CHA2021162",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$11,400",
+        "Statement_Date": 22,
+        "Investment": "$544.96",
+        "SKU#": "WEL2017112",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$6,900",
+        "Statement_Date": 22,
+        "Investment": "$589.92",
+        "SKU#": "TD201372",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "FNBO",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 22,
+        "Investment": "$448.26",
+        "SKU#": "FNB2022152",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$1,500",
+        "Statement_Date": 22,
+        "Investment": "$400.00",
+        "SKU#": "CIT201922",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "USAA",
+        "Subcategory": "",
+        "Face_Value": "$21,000",
+        "Statement_Date": 22,
+        "Investment": "$838.18",
+        "SKU#": "USA2014212",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$24,200",
+        "Statement_Date": 23,
+        "Investment": "$598.52",
+        "SKU#": "CHA2023242",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$11,800",
+        "Statement_Date": 23,
+        "Investment": "$485.48",
+        "SKU#": "WEL2019122",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$3,800",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "BAR202042",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$2,300",
+        "Statement_Date": 23,
+        "Investment": "$632.88",
+        "SKU#": "WEL200922",
+        "Account_Age": 15
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$3,600",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "CIT201842",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$6,900",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "CHA202072",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$33,500",
+        "Statement_Date": 23,
+        "Investment": "$919.48",
+        "SKU#": "CIT2019342",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": "MANY ",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$12,000",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "AME2023122",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "AME202392",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$7,500",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "BAR202382",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "NFCU",
+        "Subcategory": "",
+        "Face_Value": "$30,500",
+        "Statement_Date": 23,
+        "Investment": "$1028.18",
+        "SKU#": "NFC2014312",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$3,000",
+        "Statement_Date": 23,
+        "Investment": "$444.44",
+        "SKU#": "CIT201532",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": "MANY ",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$38,000",
+        "Statement_Date": 23,
+        "Investment": "$874.52",
+        "SKU#": "AME2023382",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$16,000",
+        "Statement_Date": 23,
+        "Investment": "$1412.98",
+        "SKU#": "CIT1994162",
+        "Account_Age": 30
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "TD202252",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$3,700",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "AME202342",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$5,500",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "CAP201962",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "DISCOVER",
+        "Subcategory": "",
+        "Face_Value": "$6,000",
+        "Statement_Date": 23,
+        "Investment": "$400.00",
+        "SKU#": "DIS202262",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$26,000",
+        "Statement_Date": 23,
+        "Investment": "$904.44",
+        "SKU#": "CIT2015262",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 12,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$18,000",
+        "Statement_Date": 24,
+        "Investment": "$474.52",
+        "SKU#": "WEL2023182",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$15,200",
+        "Statement_Date": 24,
+        "Investment": "$418.52",
+        "SKU#": "AME2023152",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$25,000",
+        "Statement_Date": 24,
+        "Investment": "$614.52",
+        "SKU#": "AME2023252",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$7,800",
+        "Statement_Date": 24,
+        "Investment": "$405.48",
+        "SKU#": "CHA201982",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$6,000",
+        "Statement_Date": 24,
+        "Investment": "$400.00",
+        "SKU#": "WEL202062",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$15,500",
+        "Statement_Date": 24,
+        "Investment": "$458.26",
+        "SKU#": "WEL2022162",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$22,000",
+        "Statement_Date": 24,
+        "Investment": "$588.26",
+        "SKU#": "WEL2022222",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 24,
+        "Investment": "$400.00",
+        "SKU#": "BAR202192",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$22,000",
+        "Statement_Date": 24,
+        "Investment": "$588.26",
+        "SKU#": "WEL2022222",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$4,000",
+        "Statement_Date": 24,
+        "Investment": "$400.00",
+        "SKU#": "WEL202142",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI $200",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 24,
+        "Investment": "$400.00",
+        "SKU#": "CIT201902",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$3,000",
+        "Statement_Date": 24,
+        "Investment": "$400.00",
+        "SKU#": "CIT202032",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$11,500",
+        "Statement_Date": 24,
+        "Investment": "$445.74",
+        "SKU#": "BAR2020122",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 24,
+        "Investment": "$400.00",
+        "SKU#": "WEL2022102",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$30,000",
+        "Statement_Date": 24,
+        "Investment": "$849.48",
+        "SKU#": "CIT2019302",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "PENDED",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 24,
+        "Investment": "$400.00",
+        "SKU#": "PEN2022102",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "WELLS FARGO $600",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 24,
+        "Investment": "$451.92",
+        "SKU#": "WEL201302",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$30,000",
+        "Statement_Date": 25,
+        "Investment": "$714.52",
+        "SKU#": "AME2023302",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$6,000",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "CAP202262",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 12,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$1,000",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "WEL202112",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$2,000",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "CIT202122",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$15,600",
+        "Statement_Date": 25,
+        "Investment": "$426.52",
+        "SKU#": "AME2023162",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$1,000",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "CIT201612",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$2,500",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "BAR201732",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "ELAN",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "ELA2022102",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$32,100",
+        "Statement_Date": 25,
+        "Investment": "$756.52",
+        "SKU#": "AME2023322",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$13,000",
+        "Statement_Date": 25,
+        "Investment": "$509.48",
+        "SKU#": "CIT2019132",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,300",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "CIT202082",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "CIT2023102",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$10,400",
+        "Statement_Date": 25,
+        "Investment": "$491.22",
+        "SKU#": "CHA2018102",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "ELAN",
+        "Subcategory": "",
+        "Face_Value": "$12,200",
+        "Statement_Date": 25,
+        "Investment": "$426.00",
+        "SKU#": "ELA2021122",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$3,500",
+        "Statement_Date": 25,
+        "Investment": "$420.70",
+        "SKU#": "CIT201642",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$8,700",
+        "Statement_Date": 25,
+        "Investment": "$457.22",
+        "SKU#": "CHA201892",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$20,500",
+        "Statement_Date": 25,
+        "Investment": "$659.48",
+        "SKU#": "CHA2019212",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$1,300",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "WEL202112",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "FIRST SERIVCE CU",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "FIR202392",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "ELAN",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 25,
+        "Investment": "$550.70",
+        "SKU#": "ELA2016102",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "NFCU $500",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "NFC202302",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$1,600",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "CHA201722",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 25,
+        "Investment": "$476.96",
+        "SKU#": "CHA201782",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 25,
+        "Investment": "$400.00",
+        "SKU#": "WEL202002",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "WEL201952",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 26,
+        "Investment": "$583.22",
+        "SKU#": "CIT2018152",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$6,000",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "TD202262",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$7,200",
+        "Statement_Date": 26,
+        "Investment": "$460.96",
+        "SKU#": "CIT201772",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 12,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "WEL2023102",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CAPITAL ONE 5.5k",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "CAP201702",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,300",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "CIT202182",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$11,300",
+        "Statement_Date": 26,
+        "Investment": "$542.96",
+        "SKU#": "CHA2017112",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$25,000",
+        "Statement_Date": 26,
+        "Investment": "$783.22",
+        "SKU#": "WEL2018252",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "PENFED",
+        "Subcategory": "",
+        "Face_Value": "$1,500",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "PEN202322",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 26,
+        "Investment": "$482.00",
+        "SKU#": "BAR2021152",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "PNC",
+        "Subcategory": "",
+        "Face_Value": "$17,500",
+        "Statement_Date": 26,
+        "Investment": "$599.48",
+        "SKU#": "PNC2019182",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 12,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$4,000",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "WEL202342",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$7,000",
+        "Statement_Date": 26,
+        "Investment": "$400.00",
+        "SKU#": "CIT201972",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 27,
+        "Investment": "$414.52",
+        "SKU#": "AME2023152",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "FNB OMAHA",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 27,
+        "Investment": "$482.00",
+        "SKU#": "FNB2021152",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$7,000",
+        "Statement_Date": 27,
+        "Investment": "$400.00",
+        "SKU#": "CHA202072",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 27,
+        "Investment": "$449.48",
+        "SKU#": "CHA2019102",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 27,
+        "Investment": "$415.74",
+        "SKU#": "WEL2020102",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$3,500",
+        "Statement_Date": 27,
+        "Investment": "$400.00",
+        "SKU#": "WEL201942",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 27,
+        "Investment": "$400.00",
+        "SKU#": "WEL202152",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$21,900",
+        "Statement_Date": 27,
+        "Investment": "$620.00",
+        "SKU#": "CHA2021222",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,600",
+        "Statement_Date": 27,
+        "Investment": "$496.44",
+        "SKU#": "CIT201562",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$22,000",
+        "Statement_Date": 27,
+        "Investment": "$622.00",
+        "SKU#": "WEL2021222",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$4,000",
+        "Statement_Date": 27,
+        "Investment": "$400.00",
+        "SKU#": "WEL202242",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$29,000",
+        "Statement_Date": 27,
+        "Investment": "$728.26",
+        "SKU#": "WEL2022292",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CITI $350",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 27,
+        "Investment": "$400.00",
+        "SKU#": "CIT201802",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 12,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$2,700",
+        "Statement_Date": 27,
+        "Investment": "$400.00",
+        "SKU#": "WEL201932",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,500",
+        "Statement_Date": 27,
+        "Investment": "$400.00",
+        "SKU#": "CIT202352",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 15,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 27,
+        "Investment": "$483.22",
+        "SKU#": "WEL2018102",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$31,000",
+        "Statement_Date": 28,
+        "Investment": "$734.52",
+        "SKU#": "AME2023312",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$16,100",
+        "Statement_Date": 28,
+        "Investment": "$537.74",
+        "SKU#": "CHA2020162",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 11,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$11,000",
+        "Statement_Date": 28,
+        "Investment": "$400.00",
+        "SKU#": "WEL2022112",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$5,900",
+        "Statement_Date": 28,
+        "Investment": "$400.00",
+        "SKU#": "BAR202162",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$9,400",
+        "Statement_Date": 28,
+        "Investment": "$403.74",
+        "SKU#": "WEL202092",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$16,500",
+        "Statement_Date": 28,
+        "Investment": "$748.18",
+        "SKU#": "WEL2014172",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 28,
+        "Investment": "$514.52",
+        "SKU#": "AME2023202",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$6,000",
+        "Statement_Date": 28,
+        "Investment": "$400.00",
+        "SKU#": "CHA202162",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$11,000",
+        "Statement_Date": 28,
+        "Investment": "$503.22",
+        "SKU#": "CIT2018112",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 28,
+        "Investment": "$516.96",
+        "SKU#": "CIT2017102",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$23,400",
+        "Statement_Date": 28,
+        "Investment": "$717.48",
+        "SKU#": "WEL2019232",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$7,500",
+        "Statement_Date": 28,
+        "Investment": "$400.00",
+        "SKU#": "CHA201982",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$2,400",
+        "Statement_Date": 28,
+        "Investment": "$400.00",
+        "SKU#": "CHA202022",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 29,
+        "Investment": "$400.00",
+        "SKU#": "CIT202392",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$1,000",
+        "Statement_Date": 29,
+        "Investment": "$400.00",
+        "SKU#": "WEL202212",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 29,
+        "Investment": "$578.18",
+        "SKU#": "CIT201482",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$6,500",
+        "Statement_Date": 29,
+        "Investment": "$400.00",
+        "SKU#": "WEL202272",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "FNBO",
+        "Subcategory": "",
+        "Face_Value": "$17,300",
+        "Statement_Date": 29,
+        "Investment": "$494.26",
+        "SKU#": "FNB2022172",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,000",
+        "Statement_Date": 29,
+        "Investment": "$498.18",
+        "SKU#": "CIT201442",
+        "Account_Age": 10
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$10,900",
+        "Statement_Date": 29,
+        "Investment": "$467.48",
+        "SKU#": "CHA2019112",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 29,
+        "Investment": "$716.96",
+        "SKU#": "CAP2017202",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "TD202393",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY ",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$36,000",
+        "Statement_Date": 30,
+        "Investment": "$834.52",
+        "SKU#": "AME2023363",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$14,000",
+        "Statement_Date": 30,
+        "Investment": "$630.70",
+        "SKU#": "CHA2016143",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$5,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "AME202353",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$10,800",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "BAR2021113",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CAPITAL ONE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CAP2023103",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$2,700",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT201933",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$3,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT202233",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT202093",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$9,500",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT2023103",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$12,200",
+        "Statement_Date": 30,
+        "Investment": "$527.22",
+        "SKU#": "CHA2018123",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "AME2023103",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 30,
+        "Investment": "$496.96",
+        "SKU#": "WEL201793",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "TD 10k",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "TD 202203",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 18,
+        "Investment": "$400.00",
+        "SKU#": "WEL2021101",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$4,200",
+        "Statement_Date": 30,
+        "Investment": "$434.70",
+        "SKU#": "WEL201643",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$12,000",
+        "Statement_Date": 30,
+        "Investment": "$1063.06",
+        "SKU#": "CIT2002123",
+        "Account_Age": 22
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$8,800",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "WEL202093",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "HSBC",
+        "Subcategory": "",
+        "Face_Value": "$7,500",
+        "Statement_Date": 30,
+        "Investment": "$433.22",
+        "SKU#": "HSB201883",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$9,500",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "WEL2021103",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$11,800",
+        "Statement_Date": 30,
+        "Investment": "$451.74",
+        "SKU#": "WEL2020123",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$2,300",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "WEL202223",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$7,500",
+        "Statement_Date": 30,
+        "Investment": "$433.22",
+        "SKU#": "CIT201883",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,800",
+        "Statement_Date": 30,
+        "Investment": "$466.70",
+        "SKU#": "CIT201663",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 30,
+        "Investment": "$415.74",
+        "SKU#": "CHA2020103",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 30,
+        "Investment": "$514.52",
+        "SKU#": "AME2023203",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$15,500",
+        "Statement_Date": 30,
+        "Investment": "$559.48",
+        "SKU#": "CIT2019163",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CHA2022103",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$16,000",
+        "Statement_Date": 30,
+        "Investment": "$468.26",
+        "SKU#": "BAR2022163",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$9,900",
+        "Statement_Date": 30,
+        "Investment": "$413.74",
+        "SKU#": "CIT2020103",
+        "Account_Age": 4
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,800",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT201953",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$15,100",
+        "Statement_Date": 30,
+        "Investment": "$686.44",
+        "SKU#": "CIT2015153",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 6,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$10,200",
+        "Statement_Date": 30,
+        "Investment": "$487.22",
+        "SKU#": "WEL2018103",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$14,600",
+        "Statement_Date": 30,
+        "Investment": "$406.52",
+        "SKU#": "WEL2023153",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$15,000",
+        "Statement_Date": 30,
+        "Investment": "$448.26",
+        "SKU#": "CIT2022153",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 0,
+        "Bank_Name/TL_Type": "PNC",
+        "Subcategory": "",
+        "Face_Value": "$30,000",
+        "Statement_Date": 30,
+        "Investment": "$748.26",
+        "SKU#": "PNC2022303",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$7,300",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT202273",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$7,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT202173",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$30,000",
+        "Statement_Date": 30,
+        "Investment": "$714.52",
+        "SKU#": "AME2023303",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,500",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT202263",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$5,200",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CIT201953",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 14,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 30,
+        "Investment": "$649.48",
+        "SKU#": "WEL2019203",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$13,400",
+        "Statement_Date": 30,
+        "Investment": "$517.48",
+        "SKU#": "CHA2019133",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,400",
+        "Statement_Date": 30,
+        "Investment": "$524.96",
+        "SKU#": "CIT2017103",
+        "Account_Age": 7
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 30,
+        "Investment": "$649.48",
+        "SKU#": "CIT2019203",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$20,000",
+        "Statement_Date": 30,
+        "Investment": "$548.26",
+        "SKU#": "WEL2022203",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$21,700",
+        "Statement_Date": 30,
+        "Investment": "$683.48",
+        "SKU#": "CIT2019223",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$9,000",
+        "Statement_Date": 30,
+        "Investment": "$631.92",
+        "SKU#": "WEL201393",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$7,800",
+        "Statement_Date": 30,
+        "Investment": "$945.32",
+        "SKU#": "CIT200383",
+        "Account_Age": 21
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$8,300",
+        "Statement_Date": 30,
+        "Investment": "$617.92",
+        "SKU#": "TD201383",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$6,900",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "BAR202173",
+        "Account_Age": 3
+    },
+    {
+        "Spots_Avail": 9,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$6,500",
+        "Statement_Date": 30,
+        "Investment": "$514.44",
+        "SKU#": "WEL201573",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$1,500",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "CHA201923",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "CITI 25k",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 30,
+        "Investment": "$451.92",
+        "SKU#": "CIT201303",
+        "Account_Age": 11
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$10,000",
+        "Statement_Date": 30,
+        "Investment": "$550.70",
+        "SKU#": "CIT2016103",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 12,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$11,000",
+        "Statement_Date": 30,
+        "Investment": "$400.00",
+        "SKU#": "WEL2022113",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$15,500",
+        "Statement_Date": 30,
+        "Investment": "$660.70",
+        "SKU#": "CIT2016163",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$5,500",
+        "Statement_Date": 31,
+        "Investment": "$798.10",
+        "SKU#": "CHA200663",
+        "Account_Age": 18
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$8,000",
+        "Statement_Date": 30,
+        "Investment": "$713.14",
+        "SKU#": "CIT201083",
+        "Account_Age": 14
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "SYNCHRONY",
+        "Subcategory": "",
+        "Face_Value": "$35,000",
+        "Statement_Date": 30,
+        "Investment": "$949.48",
+        "SKU#": "SYN2019353",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 8,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$2,000",
+        "Statement_Date": 31,
+        "Investment": "$400.00",
+        "SKU#": "WEL202223",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$4,700",
+        "Statement_Date": 31,
+        "Investment": "$400.00",
+        "SKU#": "CIT202253",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 4,
+        "Bank_Name/TL_Type": "NFCU",
+        "Subcategory": "",
+        "Face_Value": "$49,500",
+        "Statement_Date": 31,
+        "Investment": "$1138.26",
+        "SKU#": "NFC2022503",
+        "Account_Age": 2
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "TD",
+        "Subcategory": "",
+        "Face_Value": "$1,500",
+        "Statement_Date": 31,
+        "Investment": "$650.62",
+        "SKU#": "TD200823",
+        "Account_Age": 16
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$16,000",
+        "Statement_Date": 31,
+        "Investment": "$670.70",
+        "SKU#": "CIT2016163",
+        "Account_Age": 8
+    },
+    {
+        "Spots_Avail": 10,
+        "Bank_Name/TL_Type": "BARCLAYS",
+        "Subcategory": "",
+        "Face_Value": "$25,600",
+        "Statement_Date": 31,
+        "Investment": "$896.44",
+        "SKU#": "BAR2015263",
+        "Account_Age": 9
+    },
+    {
+        "Spots_Avail": 1,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$11,000",
+        "Statement_Date": 31,
+        "Investment": "$503.22",
+        "SKU#": "CIT2018113",
+        "Account_Age": 6
+    },
+    {
+        "Spots_Avail": "MANY ",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$5,100",
+        "Statement_Date": 31,
+        "Investment": "$400.00",
+        "SKU#": "AME202353",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$38,000",
+        "Statement_Date": 31,
+        "Investment": "$874.52",
+        "SKU#": "AME2023383",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 2,
+        "Bank_Name/TL_Type": "WELLS FARGO",
+        "Subcategory": "",
+        "Face_Value": "$7,500",
+        "Statement_Date": 31,
+        "Investment": "$400.00",
+        "SKU#": "WEL201983",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": 5,
+        "Bank_Name/TL_Type": "CITI",
+        "Subcategory": "",
+        "Face_Value": "$21,000",
+        "Statement_Date": 31,
+        "Investment": "$939.40",
+        "SKU#": "CIT2011213",
+        "Account_Age": 13
+    },
+    {
+        "Spots_Avail": 7,
+        "Bank_Name/TL_Type": "WELLS FARGO $300",
+        "Subcategory": "",
+        "Face_Value": "$0",
+        "Statement_Date": 31,
+        "Investment": "$400.00",
+        "SKU#": "WEL201903",
+        "Account_Age": 5
+    },
+    {
+        "Spots_Avail": "MANY",
+        "Bank_Name/TL_Type": "AMERICAN EXPRESS",
+        "Subcategory": "",
+        "Face_Value": "$2,000",
+        "Statement_Date": 31,
+        "Investment": "$400.00",
+        "SKU#": "AME202323",
+        "Account_Age": 1
+    },
+    {
+        "Spots_Avail": 3,
+        "Bank_Name/TL_Type": "CHASE",
+        "Subcategory": "",
+        "Face_Value": "$7,000",
+        "Statement_Date": 31,
+        "Investment": "$794.36",
+        "SKU#": "CHA200773",
+        "Account_Age": 17
+    }
+]
