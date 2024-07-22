@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+python-docx
+Jinja2
+pdfkit
+beautifulsoup4
