@@ -12,6 +12,10 @@ from dateutil.relativedelta import relativedelta
 
 app = Flask(__name__)
 
+# Version: 1.1.0
+# Last Modified: 2024-07-22
+# Purpose: Extract client data from user-attached files, perform analysis, and generate reports.
+
 # Load JSON files
 def load_json_file(file_path):
     with open(file_path, 'r') as file:
@@ -24,7 +28,8 @@ def calculate_years_from_date(year, month=1):
 
 def handle_dynamic_values(tradelines):
     for tradeline in tradelines:
-        tradeline['Account_Age'] = calculate_years_from_date(tradeline['Year'])
+        year = tradeline.get('Year', datetime.today().year)
+        tradeline['Account_Age'] = calculate_years_from_date(year)
     return tradelines
 
 business_primary_tradelines = handle_dynamic_values(load_json_file('data/business_primary_tradelines.json')['Standard_Tradeline_List'])
@@ -76,18 +81,43 @@ def extract_text_from_file(file_path):
 def extract_client_data(text):
     # Placeholder example for extracting client data from text
     client_profile = {
-        "company_name": "Cascade Industrial LLC",
-        "credit_utilization": 8,
-        "payment_history": 100,
-        "avg_account_age": 8,
-        "oldest_account_age": 28.8,
+        "company_name": "",
+        "credit_utilization": 0,
+        "payment_history": 0,
+        "avg_account_age": 0,
+        "oldest_account_age": 0,
         "public_records": 0,
-        "new_credit_inquiries": 2,
-        "credit_mix": ["Revolving", "Installment", "Mortgage"],
-        "naics_code": 541511,
-        "business_age": 3,
-        "consumer_average_fico_score": 850
+        "new_credit_inquiries": 0,
+        "credit_mix": [],
+        "naics_code": 0,
+        "business_age": 0,
+        "consumer_average_fico_score": 0
     }
+    
+    # Example parsing logic
+    if "Client Name:" in text:
+        client_profile["company_name"] = text.split("Client Name:")[1].split("Company Name:")[0].strip()
+    if "Credit Utilization" in text:
+        client_profile["credit_utilization"] = int(text.split("Credit Utilization:")[1].split("%")[0].strip())
+    if "Payment History" in text:
+        client_profile["payment_history"] = int(text.split("Payment History:")[1].split("%")[0].strip())
+    if "Average Account Age" in text:
+        client_profile["avg_account_age"] = float(text.split("Average Account Age:")[1].split("years")[0].strip())
+    if "Oldest Account Age" in text:
+        client_profile["oldest_account_age"] = float(text.split("Oldest Account Age:")[1].split("years")[0].strip())
+    if "Public Records" in text:
+        client_profile["public_records"] = int(text.split("Public Records:")[1].split(" ")[0].strip())
+    if "New Credit Inquiries" in text:
+        client_profile["new_credit_inquiries"] = int(text.split("New Credit Inquiries:")[1].split(" ")[0].strip())
+    if "Credit Mix" in text:
+        client_profile["credit_mix"] = text.split("Credit Mix:")[1].split(",")
+    if "NAICS Code" in text:
+        client_profile["naics_code"] = int(text.split("NAICS Code:")[1].split(" ")[0].strip())
+    if "Business Age" in text:
+        client_profile["business_age"] = int(text.split("Business Age:")[1].split("years")[0].strip())
+    if "Average FICO Score" in text:
+        client_profile["consumer_average_fico_score"] = int(text.split("Average FICO Score:")[1].split(" ")[0].strip())
+        
     return client_profile
 
 def perform_consumer_gap_analysis(profile):
@@ -260,3 +290,4 @@ def render_report(client_profile, consumer_gap_analysis, business_gap_analysis, 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
+# End of app.py
