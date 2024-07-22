@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Funding Potential & Tradeline Strategy Report</title>
+    <style>
+        body { font-family: 'Garamond', serif; }
+        h1, h2, h3 { text-align: center; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid black; padding: 10px; text-align: left; }
+        .page-break { page-break-before: always; }
+        .cover-page { text-align: center; page-break-after: always; }
+    </style>
+</head>
+<body>
+    <div class="cover-page">
+        <img src="static/V.1_Main Logo #2 (Stacked_Update).png" alt="Company Logo" width="200">
+        <h1>Funding Potential & Tradeline Strategy</h1>
+        <p>Client Name: {{ profile['company_name'] }}</p>
+        <p>Prepared By: {{ creator_name }}</p>
+        <p>Date of the report: {{ report_date }}</p>
+    </div>
+
+    <div class="page-break"></div>
+    <h2>Introduction</h2>
+    <p>{{ introduction_summary }}</p>
+
+    <div class="page-break"></div>
+    <h2>Consumer Gap Analysis</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Factor</th>
+                <th>Current Value</th>
+                <th>Target Value</th>
+                <th>Gap Identified</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for factor, details in consumer_gap_analysis.items() %}
+            <tr>
+                <td>{{ factor }}</td>
+                <td>{{ details['Current'] }}</td>
+                <td>{{ details['Target'] }}</td>
+                <td>{{ details['Gap'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="page-break"></div>
+    <h2>Business Gap Analysis</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Factor</th>
+                <th>Current Value</th>
+                <th>Target Value</th>
+                <th>Gap Identified</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for factor, details in business_gap_analysis.items() %}
+            <tr>
+                <td>{{ factor }}</td>
+                <td>{{ details['Current'] }}</td>
+                <td>{{ details['Target'] }}</td>
+                <td>{{ details['Gap'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="page-break"></div>
+    <h2>Consumer Fundability Score and Capacity Calculation</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Factor</th>
+                <th>Score</th>
+                <th>Weight</th>
+                <th>Weighted Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for factor, score in consumer_fundability_score.items() %}
+            <tr>
+                <td>{{ factor }}</td>
+                <td>{{ score }}</td>
+                <td>{{ weights[factor] }}</td>
+                <td>{{ score * weights[factor] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="3">Estimated Funding Capacity</th>
+                <th>{{ estimated_funding_capacity }}</th>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="page-break"></div>
+    <h2>Business Fundability Score and Capacity Calculation</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Factor</th>
+                <th>Score</th>
+                <th>Weight</th>
+                <th>Weighted Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for factor, score in business_fundability_score.items() %}
+            <tr>
+                <td>{{ factor }}</td>
+                <td>{{ score }}</td>
+                <td>{{ weights[factor] }}</td>
+                <td>{{ score * weights[factor] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="3">Estimated Funding Capacity</th>
+                <th>{{ estimated_funding_capacity }}</th>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="page-break"></div>
+    <h2>Key Factors Considered for Tradeline and AU Recommendations</h2>
+    <ul>
+        <li>Credit Utilization: Keeping utilization rates low (below 10%) is favorable for your credit score.</li>
+        <li>Payment History: Timely payments are crucial for maintaining and improving credit scores.</li>
+        <li>Debt Repayment: Loans and mortgages should be at least 70-90% paid off.</li>
+        <li>Credit Age: Older tradelines contribute positively, indicating stability and reliability.</li>
+        <li>Credit Mix: A diverse mix of credit types (e.g., loans, credit lines) can improve scores by showing the ability to handle various types of credit.</li>
+    </ul>
+
+    <div class="page-break"></div>
+    <h2>Consumer Recommendations</h2>
+    {% for level, rec in consumer_recommendations.items() %}
+    <h3>{{ rec.Title }}</h3>
+    <p>{{ rec.Description }}</p>
+    <h4>Primary Business and Consumer Tradelines:</h4>
+    <table>
+        <thead>
+            <tr>
+                <th>Business/Personal</th>
+                <th>Type</th>
+                <th>Subcategory</th>
+                <th>Face Value</th>
+                <th>Age (Years)</th>
+                <th>Statement Date</th>
+                <th>SKU#</th>
+                <th>Investment</th>
+                <th>Reason for Recommendation</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for tradeline in rec.Tradelines %}
+            <tr>
+                <td>{{ tradeline.business_personal }}</td>
+                <td>{{ tradeline.type }}</td>
+                <td>{{ tradeline.subcategory }}</td>
+                <td>{{ tradeline.face_value }}</td>
+                <td>{{ tradeline.age }}</td>
+                <td>{{ tradeline.statement_date }}</td>
+                <td>{{ tradeline.sku }}</td>
+                <td>{{ tradeline.investment }}</td>
+                <td>{{ tradeline.reason }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <h4>Authorized User Recommendations (Consumer Only):</h4>
+    <table>
+        <thead>
+            <tr>
+                <th>Bank Name</th>
+                <th>Face Value</th>
+                <th>Age (Years)</th>
+                <th>Statement Date</th>
+                <th>Spots Avail</th>
+                <th>SKU#</th>
+                <th>Investment</th>
+                <th>Reason for Recommendation</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for au in rec.AUs %}
+            <tr>
+                <td>{{ au.bank_name }}</td>
+                <td>{{ au.face_value }}</td>
+                <td>{{ au.age }}</td>
+                <td>{{ au.statement_date }}</td>
+                <td>{{ au.spots_avail }}</td>
+                <td>{{ au.sku }}</td>
+                <td>{{ au.investment }}</td>
+                <td>{{ au.reason }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <p>Fundability Score After Recommendations: {{ rec.Fundability_Score }}</p>
+    <p>Updated Estimated Funding Capacity: {{ rec.Estimated_Funding_Capacity }}</p>
+    <div class="page-break"></div>
+    {% endfor %}
+
+    <div class="page-break"></div>
+    <h2>Business Recommendations</h2>
+    {% for level, rec in business_recommendations.items() %}
+    <h3>{{ rec.Title }}</h3>
+    <p>{{ rec.Description }}</p>
+    <h4>Primary Business Tradelines:</h4>
+    <table>
+        <thead>
+            <tr>
+                <th>Business/Personal</th>
+                <th>Type</th>
+                <th>Subcategory</th>
+                <th>Face Value</th>
+                <th>Age (Years)</th>
+                <th>Statement Date</th>
+                <th>SKU#</th>
+                <th>Investment</th>
+                <th>Reason for Recommendation</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for tradeline in rec.Tradelines %}
+            <tr>
+                <td>{{ tradeline.business_personal }}</td>
+                <td>{{ tradeline.type }}</td>
+                <td>{{ tradeline.subcategory }}</td>
+                <td>{{ tradeline.face_value }}</td>
+                <td>{{ tradeline.age }}</td>
+                <td>{{ tradeline.statement_date }}</td>
+                <td>{{ tradeline.sku }}</td>
+                <td>{{ tradeline.investment }}</td>
+                <td>{{ tradeline.reason }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <p>Fundability Score After Recommendations: {{ rec.Fundability_Score }}</p>
+    <p>Updated Estimated Funding Capacity: {{ rec.Estimated_Funding_Capacity }}</p>
+    <div class="page-break"></div>
+    {% endfor %}
+
+    <h2>Comparison with Desired Funding Amount</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Desired Funding Amount</th>
+                <th>Estimated Funding Capacity (Good)</th>
+                <th>Estimated Funding Capacity (Better)</th>
+                <th>Estimated Funding Capacity (Best)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{ comparison.Desired_Funding_Amount }}</td>
+                <td>{{ comparison.Estimated_Funding_Capacity_Good }}</td>
+                <td>{{ comparison.Estimated_Funding_Capacity_Better }}</td>
+                <td>{{ comparison.Estimated_Funding_Capacity_Best }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-break"></div>
+    <h2>Final Detail Grid</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Level</th>
+                <th>Fundability Score</th>
+                <th>Estimated Funding Capacity</th>
+                <th>Tradelines</th>
+                <th>AUs</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for detail in final_detail_grid %}
+            <tr>
+                <td>{{ detail.level }}</td>
+                <td>{{ detail.fundability_score }}</td>
+                <td>{{ detail.estimated_funding_capacity }}</td>
+                <td>{{ detail.tradelines }}</td>
+                <td>{{ detail.aus }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="page-break"></div>
+    <h2>Definitions</h2>
+    <ul>
+        <li><strong>Primary Business and Consumer Tradelines</strong>: Explanation of the tradeline components.</li>
+        <li><strong>Authorized User Recommendations</strong>: Detailed descriptions of the AU components.</li>
+        <li><strong>Comparison Grid and Final Detail Grid</strong>: Definitions and explanations for each component.</li>
+    </ul>
+
+    <p>END OF THIS REPORT - THANK YOU FOR YOUR BUSINESS</p>
+</body>
+</html>
