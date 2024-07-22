@@ -1,3 +1,6 @@
+import json
+import pdfkit
+from docx import Document
 from flask import Flask, request, jsonify
 import PyPDF2
 import docx
@@ -5,8 +8,30 @@ import os
 from jinja2 import Template
 from bs4 import BeautifulSoup
 from datetime import datetime
+from dateutil.relativedelta import relativedelta
 
 app = Flask(__name__)
+
+# Load JSON files
+def load_json_file(file_path):
+    with open(file_path, 'r') as file:
+        return json.load(file)
+
+def calculate_years_from_date(year, month=1):
+    start_date = datetime(year, month, 1)
+    today = datetime.today()
+    return relativedelta(today, start_date).years
+
+def handle_dynamic_values(tradelines):
+    for tradeline in tradelines:
+        tradeline['Account_Age'] = calculate_years_from_date(2020)  # Example: Assuming 2020 as a static date
+    return tradelines
+
+business_primary_tradelines = handle_dynamic_values(load_json_file('/mnt/data/business_primary_tradelines.json')['Standard_Tradeline_List'])
+consumer_primary_tradelines = handle_dynamic_values(load_json_file('/mnt/data/consumer_primary_tradelines.json')['Standard_Tradeline_List'])
+business_loan_data = load_json_file('/mnt/data/Business Loan Approval Data.json')
+personal_loan_data = load_json_file('/mnt/data/Personal Loan Approval Amounts.json')
+au_data = load_json_file('/mnt/data/au_Data.json')
 
 @app.route('/')
 def index():
@@ -48,7 +73,7 @@ def extract_text_from_file(file_path):
 
 def extract_client_data(text):
     client_profile = {
-        "company_name": "Example Company",
+        "company_name": "Cascade Industrial LLC",
         "credit_utilization": 12,
         "payment_history": 85,
         "avg_account_age": 6,
