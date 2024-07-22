@@ -72,14 +72,15 @@ def extract_text_from_file(file_path):
         return "Unsupported file format."
 
 def extract_client_data(text):
+    # Placeholder example for extracting client data from text
     client_profile = {
         "company_name": "Cascade Industrial LLC",
-        "credit_utilization": 12,
-        "payment_history": 85,
-        "avg_account_age": 6,
-        "oldest_account_age": 15,
+        "credit_utilization": 8,
+        "payment_history": 100,
+        "avg_account_age": 8,
+        "oldest_account_age": 28.8,
         "public_records": 0,
-        "new_credit_inquiries": 3,
+        "new_credit_inquiries": 2,
         "credit_mix": ["Revolving", "Installment", "Mortgage"]
     }
     return client_profile
@@ -115,7 +116,7 @@ def generate_recommendations(profile, tradeline_list, au_list):
     better_recommendations = recommend_tradelines(profile, tradeline_list, min_recommendations=4)
     best_recommendations = recommend_tradelines(profile, tradeline_list, min_recommendations=6)
     
-    au_recommendations = au_list[:2]
+    au_recommendations = au_list[:2]  # Example
 
     good_score, good_capacity = calculate_fundability_score(profile)
     better_score, better_capacity = good_score * 1.5, good_capacity * 1.5
