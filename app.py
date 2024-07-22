@@ -12,9 +12,9 @@ from dateutil.relativedelta import relativedelta
 
 app = Flask(__name__)
 
-# Version: 1.1.0
+# Version: 1.2.0
 # Last Modified: 2024-07-22
-# Purpose: Extract client data from user-attached files, perform analysis, and generate reports.
+# Purpose: Extract client data from user-attached files, perform analysis, and generate downloadable reports.
 
 # Load JSON files
 def load_json_file(file_path):
@@ -290,4 +290,3 @@ def render_report(client_profile, consumer_gap_analysis, business_gap_analysis, 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
-# End of app.py
